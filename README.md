@@ -60,19 +60,19 @@ Main findings included:
 
 ### Process Analysis
 
-![Process Analysis](screenshots/process-analysis.png)
+![Process Analysis](screenshots/process-analysis)
 
 ### IOC Detection
 
-![IOC Detection](screenshots/ioc-detection.png)
+![IOC Detection](screenshots/ioc-detection)
 
 ### Network Connections
 
-![Network Connections](screenshots/network-connections.png)
+![Network Connections](screenshots/network-connections)
 
 ### Memory / Host Artifact Review
 
-![Memory Artifact](screenshots/memory-artifact.png)
+![Memory Artifact](screenshots/memory-artifact)
 
 ## Results Summary Table
 
