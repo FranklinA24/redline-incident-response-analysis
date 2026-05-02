@@ -1,4 +1,4 @@
-# redline-incident-response-analysis
+# Redline-Incident-Response-Analysis
 # Incident Response Investigation Using FireEye Redline
 
 Author: Franklin Araujo  
