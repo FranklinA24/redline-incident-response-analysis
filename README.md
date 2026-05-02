@@ -47,14 +47,16 @@ For the full step-by-step process, see:
 
 ## Results
 
-The investigation showed how Redline can help identify suspicious host activity and support incident response decision-making.
+The analysis did not reveal confirmed malicious activity; however, this investigation demonstrates how FireEye Redline can be used to analyze endpoint behavior and identify potential indicators of compromise.
 
-Main findings included:
+During the analysis:
 
-- Suspicious or unusual process activity
-- Possible abnormal parent-child process relationships
-- Network connection review for external communication
-- IOC-based prioritization of suspicious artifacts
+- Processes were reviewed to identify abnormal execution patterns
+- Network connections were examined for external communication
+- IOC results were used to prioritize potential risks
+- Host artifacts were analyzed to detect unusual system behavior
+
+This reflects a baseline system analysis, which is an important step in validating whether a system is compromised.
 
 ## Evidence
 
