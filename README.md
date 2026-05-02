@@ -106,6 +106,8 @@ This project showed how FireEye Redline supports incident response by helping an
 
 ## Repository Structure
 redline-incident-response-analysis/
+```text
+
  ┣ README.md
  ┣ docs/
  ┃ ┣ tool-analysis.md
